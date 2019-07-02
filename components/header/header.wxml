@@ -1,0 +1,4 @@
+<!--components/header/header.wxml-->
+<view>
+  <van-nav-bar title="{{title}}" left-arrow></van-nav-bar>
+</view>

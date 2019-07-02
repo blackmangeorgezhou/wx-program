@@ -1,0 +1,4 @@
+<!--components/user/user.wxml-->
+<view>
+  User
+</view>

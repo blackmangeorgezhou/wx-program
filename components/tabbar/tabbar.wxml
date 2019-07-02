@@ -1,0 +1,8 @@
+<view id="tab-bar">
+  <!-- <van-tabbar
+    active="{{currentTab}"
+    active-color="#1AAD19"
+    bind:change="onChangeSelectTab">
+      
+  </van-tabbar> -->
+</view>

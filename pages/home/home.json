@@ -1,0 +1,9 @@
+{
+  "usingComponents":{
+    "van-tabbar": "../../miniprogram_npm/vant-weapp/tabbar/index",
+    "van-tabbar-item": "../../miniprogram_npm/vant-weapp/tabbar-item/index",
+    "home-main": "../../components/homemain/homemain",
+    "home-smile": "../../components/smile/smile",
+    "home-user": "../../components/user/user"
+  }
+}

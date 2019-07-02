@@ -1,0 +1,26 @@
+{
+  "name": "wx-program",
+  "version": "1.0.0",
+  "description": "wx-app TestProgram1",
+  "main": "app.js",
+  "dependencies": {
+    "vant-weapp": "^0.5.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackmangeorgezhou/wx-program.git"
+  },
+  "keywords": [
+    "practices"
+  ],
+  "author": "George.Zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackmangeorgezhou/wx-program/issues"
+  },
+  "homepage": "https://github.com/blackmangeorgezhou/wx-program#readme"
+}
